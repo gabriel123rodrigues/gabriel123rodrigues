@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Gabriel Cardim 👋
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel123rodrigues&show_icons=true&theme=transparent)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?gabriel123rodrigues=anuraghazra&layout=compact)
+![Top Langs]()
 
 
 <br>
