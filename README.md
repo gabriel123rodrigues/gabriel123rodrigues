@@ -1,12 +1,13 @@
 ### Olá! Eu sou o Gabriel Cardim 👋
+🚀Buscando aprender mais a cada dia.
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?gabriel123rodrigues=anuraghazra&layout=compact)
-![Top Langs]()
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel123rodrigues&layout=compact)
 
 
 <br>
-<br>
-## Tecnologias 
+
+### Tecnologias 
 
 <div style="display: inline-block"><br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
